@@ -356,7 +356,7 @@ NombresArray.forEach(function(Name){
   console.log(Name)
 })
 
-//? DIECISÉIS
+//? DIECISEIS
 
 console.warn("Ejercicio 16");
 //16. (forEach) Sumar Edades:  Calcula la suma de las edades de un array edades usando forEach.
